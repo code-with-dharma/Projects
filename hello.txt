@@ -1,1 +1,3 @@
 "Hello Git" 
+"This is Dharma's Git"
+"Cloned the porject and working on the pull and push"
